@@ -12,12 +12,4 @@ body {
     border-color: solid black;
     font-style: normal;
 }
-.vide {
-    background-color: brown;
-    border: 5px;
-    border-radius: 3px;
-    border-color: black;
-}
-.audi {
-    background-color: chocolate;
-}
+
